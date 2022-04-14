@@ -1,0 +1,18 @@
+[
+      {
+            "Sanitation_Function": "SS1", 
+            "Name": "A", 
+            "Quaternion_Z": 0.11720731286834407, 
+            "Position_X": 1.8669166564941406, 
+            "Position_Y": -1.2615368366241455, 
+            "Quaternion_W": 0.9931074694161666
+      }, 
+      {
+            "Sanitation_Function": "SS2", 
+            "Name": "B", 
+            "Quaternion_Z": -0.7646996696777658, 
+            "Position_X": 1.9724318981170654, 
+            "Position_Y": -3.6047024726867676, 
+            "Quaternion_W": 0.6443868521274435
+      }
+]
